@@ -4,7 +4,7 @@
 
 <!-- GitHub 热门使用语言卡片 -->
 
-[![tianluanchen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=tianluanchen&hide_title=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?hide=css,html&theme=radical&username=tianluanchen&hide_title=false&layout=compact)
+[![tianluanchen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=css,html&theme=radical&username=tianluanchen&hide_title=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?hide=css,html&theme=radical&username=tianluanchen&hide_title=false&layout=compact)
 
 <!-- GitHub 置顶仓库卡片 -->
 
