@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/tianluanchen/codes">
-	<img align="left" alt="tianluanchen/codes" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=codes&show_owner=false" />
+	<img  alt="tianluanchen/codes" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=codes&show_owner=false" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/tianluanchen/OnlinePortScan">
-	<img align="left" alt="tianluanchen/OnlinePortScan" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=OnlinePortScan&show_owner=false" />
+	<img  alt="tianluanchen/OnlinePortScan" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=OnlinePortScan&show_owner=false" />
 </a>
 
 <br/><br/>
