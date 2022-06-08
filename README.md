@@ -1,7 +1,7 @@
 <!-- GitHub 统计卡片 -->
 <div>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=tianluanchen&count_private=false&show_icons=true" />
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=tianluanchen&count_private=false&show_icons=true" />
 </a>
 
 <!-- GitHub 热门使用语言卡片 -->
