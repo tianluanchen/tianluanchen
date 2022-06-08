@@ -9,7 +9,7 @@
 <!-- GitHub 置顶仓库卡片 -->
 
 <a href="https://github.com/tianluanchen/PHPMessageBoard">
-	<img align="left" alt="tianluanchen/PHPMessageBoard" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=PHPMessageBoard&show_owner=false" />
+	<img  alt="tianluanchen/PHPMessageBoard" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=PHPMessageBoard&show_owner=false" />
 </a>
 
 <a href="https://github.com/tianluanchen/codes">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/tianluanchen/Chinesejs">
-	<img align="left" alt="tianluanchen/Chinesejs" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=Chinesejs&show_owner=false" />
+	<img  alt="tianluanchen/Chinesejs" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=Chinesejs&show_owner=false" />
 </a>
 
 <a href="https://github.com/tianluanchen/OnlinePortScan">
@@ -25,6 +25,6 @@
 </a>
 
 <a href="https://github.com/tianluanchen/WebVisitStat">
-	<img align="left" alt="tianluanchen/WebVisitStat" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=WebVisitStat&show_owner=false" />
+	<img  alt="tianluanchen/WebVisitStat" src="https://github-readme-stats.vercel.app/api/pin/?theme=dracula&username=tianluanchen&repo=WebVisitStat&show_owner=false" />
 </a>
 
