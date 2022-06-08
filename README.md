@@ -9,9 +9,9 @@
 <!-- GitHub 置顶仓库卡片 -->
 
 <a href="https://github.com/tianluanchen/Chinesejs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=Chinesejs&show_owner=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=Chinesejs&show_owner=false" />
 </a>
 
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/tianluanchen/PHPMessageBoard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=PHPMessageBoard&show_owner=false)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=PHPMessageBoard&show_owner=false)" />
 </a>
