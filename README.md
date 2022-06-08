@@ -13,5 +13,5 @@
 </a>
 
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/tianluanchen/PHPMessageBoard">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=PHPMessageBoard&show_owner=false)" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=tianluanchen&repo=PHPMessageBoard&show_owner=false)" />
 </a>
